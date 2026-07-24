@@ -236,14 +236,11 @@ Machine Learning model for sustainability.
 
 ---
 
-# GitHub Trophies
+## 🏆 LeetCode Stats
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandru1508&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/chanxz1508?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
 ---
 
 # Contribution Activity
